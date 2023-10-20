@@ -1,2 +1,1 @@
-# First_Come_First_Serve
-First Come First Serve (FCFS) scheduling is a straightforward algorithm where tasks are executed in the order of their arrival. It follows a queue-like structure, processing tasks based on their arrival sequence without considering their execution time or priority.
+The project follows a systematic approach, beginning with input collection, implementing a Binary Search Tree based Priority Queue, and executing processes using the Shortest Job First Scheduling Algorithm.
